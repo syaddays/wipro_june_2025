@@ -1,0 +1,18 @@
+batch 2
+
+1. Hanumanth charya
+2. Lakshmi kumar
+3.borra Suhas
+4. Gargi
+5.Sandeep
+6.vinay 
+7.Nikitha
+8.HArshavardhan
+9.Rukhmini
+10.Bali Saiprasad
+
+Task LAaunching ec2 machine , deploying apache website in different ways UBUNTU,WINDOWS,LINUX
+     PPTS,WORD 
+
+Contact : 9573284698 balisaiprasad31@gmail.com
+group : https://chat.whatsapp.com/JYgfUl4Ny2J6pEhiBbSzjg
